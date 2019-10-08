@@ -22,6 +22,12 @@ public class Calculatrice implements CalculatriceInterface{
 		return result;
 	}
 	
+	public int cuadrado(int a) {
+		int result;
+		result = a*a;
+		return result;
+	}
+	
 	public boolean esPar(int a) {
 		int result;
 		boolean bresult;

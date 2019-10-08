@@ -8,6 +8,8 @@ public interface CalculatriceInterface{
 	
 	public int multiplicar(int a, int b);
 	
+	public int cuadrado(int a);
+	
 	public boolean esPar(int a);
 
 }
